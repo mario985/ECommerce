@@ -1,0 +1,15 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/bin/Debug/net9.0/ECommerce.Modules.Payments.Domain.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/bin/Debug/net9.0/ECommerce.Modules.Payments.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/bin/Debug/net9.0/ECommerce.Modules.Payments.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/refint/ECommerce.Modules.Payments.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ref/ECommerce.Modules.Payments.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerce.Modules.Payments.Domain.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Domain/obj/Debug/net9.0/ECommerc.847B9450.Up2Date

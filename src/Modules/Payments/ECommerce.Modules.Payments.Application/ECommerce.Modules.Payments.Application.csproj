@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Modules.Payments.Domain\ECommerce.Modules.Payments.Domain.csproj" />
+    <ProjectReference Include="..\ECommerce.Modules.Payments.Contracts\ECommerce.Modules.Payments.Contracts.csproj" />
+    <ProjectReference Include="..\..\Ordering\ECommerce.Modules.Ordering.Contracts\ECommerce.Modules.Ordering.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\Common\ECommerce.Common.Application\ECommerce.Common.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Modules.Catalog.Application\ECommerce.Modules.Catalog.Application.csproj" />
+    <ProjectReference Include="..\ECommerce.Modules.Catalog.Domain\ECommerce.Modules.Catalog.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Common\ECommerce.Common.Infrastructure\ECommerce.Common.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" />
+    <PackageReference Include="MongoDB.Driver" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Modules.Identity.Application\ECommerce.Modules.Identity.Application.csproj" />
+    <ProjectReference Include="..\ECommerce.Modules.Identity.Contracts\ECommerce.Modules.Identity.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\Common\ECommerce.Common.Presentation\ECommerce.Common.Presentation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

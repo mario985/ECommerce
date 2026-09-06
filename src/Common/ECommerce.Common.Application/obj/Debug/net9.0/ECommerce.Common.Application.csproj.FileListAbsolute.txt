@@ -1,0 +1,15 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/bin/Debug/net9.0/ECommerce.Common.Application.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/bin/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/bin/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerc.76F3BA35.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/refint/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Common/ECommerce.Common.Application/obj/Debug/net9.0/ref/ECommerce.Common.Application.dll

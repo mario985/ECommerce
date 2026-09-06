@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ECommerce.Modules.Basket.Domain/1.0.0": {
+        "runtime": {
+          "ECommerce.Modules.Basket.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerce.Modules.Basket.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

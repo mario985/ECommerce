@@ -1,0 +1,17 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerc.6EC0513C.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/refint/ECommerce.Modules.Wishlist.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ECommerce.Modules.Wishlist.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Wishlist/ECommerce.Modules.Wishlist.Contracts/obj/Debug/net9.0/ref/ECommerce.Modules.Wishlist.Contracts.dll

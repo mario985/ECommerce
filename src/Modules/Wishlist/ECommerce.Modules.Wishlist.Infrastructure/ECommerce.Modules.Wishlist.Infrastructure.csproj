@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Modules.Wishlist.Application\ECommerce.Modules.Wishlist.Application.csproj" />
+    <ProjectReference Include="..\ECommerce.Modules.Wishlist.Domain\ECommerce.Modules.Wishlist.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Common\ECommerce.Common.Infrastructure\ECommerce.Common.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup><PackageReference Include="Microsoft.EntityFrameworkCore.Design"><PrivateAssets>all</PrivateAssets><IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets></PackageReference><PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" /><PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" /></ItemGroup>
+  <ItemGroup><FrameworkReference Include="Microsoft.AspNetCore.App" /></ItemGroup>
+  <PropertyGroup><TargetFramework>net9.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><NoWarn>$(NoWarn);CA1861</NoWarn></PropertyGroup>
+</Project>

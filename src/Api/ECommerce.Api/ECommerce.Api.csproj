@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\ECommerce.Common.Infrastructure\ECommerce.Common.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Common\ECommerce.Common.Presentation\ECommerce.Common.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Identity\ECommerce.Modules.Identity.Infrastructure\ECommerce.Modules.Identity.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Identity\ECommerce.Modules.Identity.Presentation\ECommerce.Modules.Identity.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Catalog\ECommerce.Modules.Catalog.Infrastructure\ECommerce.Modules.Catalog.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Catalog\ECommerce.Modules.Catalog.Presentation\ECommerce.Modules.Catalog.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Inventory\ECommerce.Modules.Inventory.Infrastructure\ECommerce.Modules.Inventory.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Inventory\ECommerce.Modules.Inventory.Presentation\ECommerce.Modules.Inventory.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Cart\ECommerce.Modules.Cart.Infrastructure\ECommerce.Modules.Cart.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Cart\ECommerce.Modules.Cart.Presentation\ECommerce.Modules.Cart.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Ordering\ECommerce.Modules.Ordering.Infrastructure\ECommerce.Modules.Ordering.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Ordering\ECommerce.Modules.Ordering.Presentation\ECommerce.Modules.Ordering.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Payments\ECommerce.Modules.Payments.Infrastructure\ECommerce.Modules.Payments.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Payments\ECommerce.Modules.Payments.Presentation\ECommerce.Modules.Payments.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Reviews\ECommerce.Modules.Reviews.Infrastructure\ECommerce.Modules.Reviews.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Reviews\ECommerce.Modules.Reviews.Presentation\ECommerce.Modules.Reviews.Presentation.csproj" />
+    <ProjectReference Include="..\..\Modules\Wishlist\ECommerce.Modules.Wishlist.Infrastructure\ECommerce.Modules.Wishlist.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Modules\Wishlist\ECommerce.Modules.Wishlist.Presentation\ECommerce.Modules.Wishlist.Presentation.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>ECommerce.Api</UserSecretsId>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" PrivateAssets="all" />
+    <PackageReference Include="Asp.Versioning.Http" />
+    <PackageReference Include="Serilog.AspNetCore" />
+    <PackageReference Include="Serilog.Sinks.Console" />
+    <PackageReference Include="Swashbuckle.AspNetCore" />
+  </ItemGroup>
+
+</Project>

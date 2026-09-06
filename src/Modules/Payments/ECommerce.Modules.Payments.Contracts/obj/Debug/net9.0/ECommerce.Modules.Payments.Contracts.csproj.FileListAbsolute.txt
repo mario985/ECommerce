@@ -1,0 +1,17 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Modules.Payments.Contracts.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Modules.Payments.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Modules.Payments.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerc.CBABEDCA.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/refint/ECommerce.Modules.Payments.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ECommerce.Modules.Payments.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Payments/ECommerce.Modules.Payments.Contracts/obj/Debug/net9.0/ref/ECommerce.Modules.Payments.Contracts.dll

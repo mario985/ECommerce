@@ -1,0 +1,15 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/bin/Debug/net9.0/ECommerce.Modules.Inventory.Domain.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/bin/Debug/net9.0/ECommerce.Modules.Inventory.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/bin/Debug/net9.0/ECommerce.Modules.Inventory.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/refint/ECommerce.Modules.Inventory.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ref/ECommerce.Modules.Inventory.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerce.Modules.Inventory.Domain.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Inventory/ECommerce.Modules.Inventory.Domain/obj/Debug/net9.0/ECommerc.21B7875F.Up2Date

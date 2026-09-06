@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Modules.Cart.Domain\ECommerce.Modules.Cart.Domain.csproj" />
+    <ProjectReference Include="..\ECommerce.Modules.Cart.Contracts\ECommerce.Modules.Cart.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\Common\ECommerce.Common.Application\ECommerce.Common.Application.csproj" />
+    <ProjectReference Include="..\..\Catalog\ECommerce.Modules.Catalog.Contracts\ECommerce.Modules.Catalog.Contracts.csproj" />
+    <ProjectReference Include="..\..\Ordering\ECommerce.Modules.Ordering.Contracts\ECommerce.Modules.Ordering.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+</Project>

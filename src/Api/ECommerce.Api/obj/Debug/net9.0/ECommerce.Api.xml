@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECommerce.Api</name>
+    </assembly>
+    <members>
+        <member name="T:ECommerce.Api.OpenApi.OpenApiOptions">
+            <summary>
+            Configures the public OpenAPI document and Swagger UI exposure.
+            </summary>
+        </member>
+        <member name="T:ECommerce.Api.OpenApi.ApiProblemDetailsDocument">
+            <summary>
+            Documents the standard ProblemDetails payload returned by the API.
+            </summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiProblemDetailsDocument.ErrorCode">
+            <summary>Stable, client-consumable API error code.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiProblemDetailsDocument.CorrelationId">
+            <summary>Request correlation identifier.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiProblemDetailsDocument.TraceId">
+            <summary>Distributed tracing identifier.</summary>
+        </member>
+        <member name="T:ECommerce.Api.OpenApi.ApiValidationProblemDetailsDocument">
+            <summary>
+            Documents the validation ProblemDetails payload returned for invalid requests.
+            </summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiValidationProblemDetailsDocument.Errors">
+            <summary>Validation messages grouped by request property.</summary>
+        </member>
+        <member name="T:ECommerce.Api.OpenApi.ApiPagedResponseDocument">
+            <summary>
+            Documents the pagination envelope shared by collection endpoints.
+            </summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiPagedResponseDocument.Items">
+            <summary>Page items. The item shape is specific to the endpoint.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiPagedResponseDocument.Page">
+            <summary>One-based page number.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiPagedResponseDocument.PageSize">
+            <summary>Number of items requested per page.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiPagedResponseDocument.TotalCount">
+            <summary>Total number of matching items.</summary>
+        </member>
+        <member name="P:ECommerce.Api.OpenApi.ApiPagedResponseDocument.TotalPages">
+            <summary>Total number of available pages.</summary>
+        </member>
+    </members>
+</doc>

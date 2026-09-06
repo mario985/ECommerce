@@ -1,0 +1,17 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Modules.Identity.Contracts.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Modules.Identity.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Modules.Identity.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerc.976F936A.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/refint/ECommerce.Modules.Identity.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ECommerce.Modules.Identity.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Identity/ECommerce.Modules.Identity.Contracts/obj/Debug/net9.0/ref/ECommerce.Modules.Identity.Contracts.dll

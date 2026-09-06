@@ -1,0 +1,15 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/bin/Debug/net9.0/ECommerce.Modules.Reviews.Domain.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/bin/Debug/net9.0/ECommerce.Modules.Reviews.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/bin/Debug/net9.0/ECommerce.Modules.Reviews.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerc.54578E93.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/refint/ECommerce.Modules.Reviews.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ECommerce.Modules.Reviews.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Reviews/ECommerce.Modules.Reviews.Domain/obj/Debug/net9.0/ref/ECommerce.Modules.Reviews.Domain.dll

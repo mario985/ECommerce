@@ -1,0 +1,17 @@
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.deps.json
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Common.Application.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/bin/Debug/net9.0/ECommerce.Common.Domain.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.csproj.AssemblyReference.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.AssemblyInfoInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.AssemblyInfo.cs
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.csproj.CoreCompileInputs.cache
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerc.16037496.Up2Date
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/refint/ECommerce.Modules.Ordering.Contracts.dll
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ECommerce.Modules.Ordering.Contracts.pdb
+/Users/mariodawod/developer/backend_projects/ECommerce/src/Modules/Ordering/ECommerce.Modules.Ordering.Contracts/obj/Debug/net9.0/ref/ECommerce.Modules.Ordering.Contracts.dll
