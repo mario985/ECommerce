@@ -46,10 +46,7 @@ src/
     ├── Payments/
     ├── Reviews/
     └── Wishlist/
-tests/
-├── ECommerce.IntegrationTests/
-├── ECommerce.ArchitectureTests/
-└── Modules/
+
 ```
 
 ## Running with Docker
@@ -82,10 +79,6 @@ dotnet run --project src/Api/ECommerce.Api
 
 Swagger is available at `http://localhost:5080/swagger` and can be disabled through the `OpenApi:Enabled` setting.
 
-## Tests
-
-```bash
-dotnet test --no-build
 ```
 
 ## Future improvements
